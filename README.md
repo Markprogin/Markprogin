@@ -1,26 +1,13 @@
 ### Olá, eu sou o Marcos Paulo 👋
 
-Here are some ideas to get you started:
 
 - 🔭 Atualmente trabalho como Analista de Control Desk
 - 🌱 Estou Aprendendo Java, Git e metodologias ageis, alem de me aprofundar em Banco de Dados 
 - 👯 Busco participar de projetos e evoluir em meu conhecimento tecnico em java
 - 📫 para entrar em contato comigo, clique no link https://www.linkedin.com/in/marcos-paulo-dos-santos/
 
-##
 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcos-Java" height="40" width="60" src="https://ravel.com.br/blog/wp-content/uploads/2020/09/Java-Capa.png">
-  <img align="center" alt="Marcos-html" height="30" width="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Marcos-Css" height="30" width="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
- 
- 
  ##
  
 <div> 
