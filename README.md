@@ -1,9 +1,9 @@
 ### Olá, eu sou o Marcos Paulo 👋
 
 
-- 🔭 Atualmente trabalho como Analista de Control Desk
-- 🌱 Estou Aprendendo Java, Git e metodologias ageis, alem de me aprofundar em Banco de Dados 
-- 👯 Busco participar de projetos e evoluir em meu conhecimento tecnico em java
+- 🔭 Atualmente sou analista de Planejamento 
+- 🌱 Estou Aprendendo Power BI, Python, SQL e me aprofundar em conhecimento de negocios. 
+- 👯 Busco participar de projetos e evoluir meus conhecimentos tecnico
 - 📫 para entrar em contato comigo, clique no link https://www.linkedin.com/in/marcos-paulo-dos-santos/
 
 
